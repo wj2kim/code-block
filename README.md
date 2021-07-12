@@ -1,2 +1,2 @@
 # code-block
-React + Typescript Project
+React + Typescript toy project
